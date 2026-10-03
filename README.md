@@ -28,7 +28,7 @@ Sistem berbasis Computer Vision (OpenCV) dan Optical Character Recognition (Tess
 
 ## cara menjalanakan bisa langsung di download file .ipynb nya lewat repository
 
------Pipeline Arsitektur-----------
+## Pipeline Arsitektur
 Grayscale conversion (Orientasi lanskap matriks bawaan).
 
 ROI Cropping berdasarkan persentase spasial area dokumen.
