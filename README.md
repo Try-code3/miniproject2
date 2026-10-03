@@ -36,3 +36,5 @@ ROI Cropping berdasarkan persentase spasial area dokumen.
 Number OCR: Upscaling 2x -> Gaussian Blur -> Otsu Thresholding -> Pytesseract (--psm 7).
 
 Signature Verification: Inverse Otsu Thresholding -> Morphological Closing -> Ink Density Threshold > 1.5%.
+
+## "Untuk melihat detail hasil output dari 9 citra uji dan analisis metodenya, silakan baca Hasil.md.
